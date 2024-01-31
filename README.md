@@ -1,3 +1,3 @@
 # Questionnaire
 
-Internship Project
+Internship Assignment
